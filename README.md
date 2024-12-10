@@ -1,75 +1,14 @@
-<header>
+# Farrik Barnard SNHU CS 499 ePortfolio
+<center><img src="banner_eportfolio.jpg"></center>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## Professional Self-Assessment
+Throughout my journey in the Computer Science program, the coursework and development of my ePortfolio have significantly shaped my skills, professional goals, and values. This experience has not only showcased my strengths but has also prepared me to enter the computer science field with confidence and a competitive edge.
+Completing various projects and assignments has allowed me to demonstrate my technical expertise and problem-solving abilities. For example, implementing secure communication protocols and conducting vulnerability assessments in my capstone project for Artemis Financial highlighted my proficiency in software security. This experience emphasized the importance of secure coding practices, which is crucial for protecting sensitive data and maintaining system integrity.
+Collaborating in a team environment has been a vital aspect of my growth. Working on group projects taught me the value of effective communication and teamwork. I learned to coordinate with team members, divide tasks based on individual strengths, and collectively work towards a common goal. This collaborative experience is essential for thriving in a professional setting where teamwork and communication are key.
+Communicating with stakeholders is another critical skill I developed. Through presentations and project updates, I learned to convey complex technical information in a clear and concise manner. This ability to bridge the gap between technical and non-technical stakeholders ensures that project goals are understood and met effectively.
+My coursework in data structures and algorithms provided a strong foundation in optimizing code for efficiency and performance. Understanding various data structures, such as linked lists, trees, and hash tables, enabled me to solve complex problems efficiently. Mastering algorithms, including sorting, searching, and graph traversal, has been instrumental in developing robust and efficient software solutions.
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
-
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
-
-In this course, you will:
-
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
-
-### How to start this course
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+In software engineering and database management, I gained hands-on experience in designing and developing applications. Learning about different software development methodologies, such as Agile and Waterfall, equipped me with the skills to manage projects effectively. Working with databases, I honed my ability to design efficient database schemas, write complex SQL queries, and ensure data integrity.
+Security has been a focal point throughout my education. Implementing encryption, conducting penetration testing, and performing regular security audits have been crucial in ensuring the robustness of my applications. This focus on security prepares me to develop applications that are resilient to threats and comply with industry standards.
+My ePortfolio showcases artifacts that demonstrate these skills and competencies. For instance, the secure communication project highlights my ability to implement encryption and ensure data integrity. The vulnerability assessment report exemplifies my skills in identifying and mitigating security risks. These artifacts collectively illustrate my proficiency in various areas of computer science and how they contribute to building secure, reliable, and efficient software solutions.
+In summary, my professional self-assessment reflects a comprehensive skill set in computer science, emphasizing secure coding practices, teamwork, effective communication, and technical proficiency. These competencies, showcased through my ePortfolio, set me apart as a qualified and capable professional ready to contribute to the field of computer science.
