@@ -13,6 +13,10 @@ Security has been a focal point throughout my education. Implementing encryption
 My ePortfolio showcases artifacts that demonstrate these skills and competencies. For instance, the secure communication project highlights my ability to implement encryption and ensure data integrity. The vulnerability assessment report exemplifies my skills in identifying and mitigating security risks. These artifacts collectively illustrate my proficiency in various areas of computer science and how they contribute to building secure, reliable, and efficient software solutions.
 In summary, my professional self-assessment reflects a comprehensive skill set in computer science, emphasizing secure coding practices, teamwork, effective communication, and technical proficiency. These competencies, showcased through my ePortfolio, set me apart as a qualified and capable professional ready to contribute to the field of computer science.
 
+
+## Code Review
+https://www.youtube.com/watch?v=XGd-xtpUffI
+
 ### [Software Design & Engineering](SoftwareDesign&Engineering)
 
 
