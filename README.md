@@ -15,6 +15,11 @@ In summary, my professional self-assessment reflects a comprehensive skill set i
 
 
 ## Code Review
+The following Code Review will address the folowing:
+Existing functionality: Provide a detailed walkthrough focused on the features and functionality of the existing code (before enhancements).
+Code Analysis: Target areas for improvement such as structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
+Enhancement: Provide a walkthrough of planned enhancements that address issues raised in the code analysis. Highlight the specific skills you will demonstrate and address the alignment for each of the five course outcomes across the three categories.
+
 [Code Review Link](https://www.youtube.com/watch?v=XGd-xtpUffI)
 
 ### [Software Design & Engineering](SoftwareDesign&Engineering)
