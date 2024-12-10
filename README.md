@@ -1,5 +1,5 @@
 # Farrik Barnard SNHU CS 499 ePortfolio
-<center><img src="banner_eportfolio.jpg"></center>
+<center><img src="E-portfolios.jpg"></center>
 
 ## Professional Self-Assessment
 Throughout my journey in the Computer Science program, the coursework and development of my ePortfolio have significantly shaped my skills, professional goals, and values. This experience has not only showcased my strengths but has also prepared me to enter the computer science field with confidence and a competitive edge.
