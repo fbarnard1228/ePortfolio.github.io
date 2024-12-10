@@ -1,5 +1,5 @@
 # Farrik Barnard SNHU CS 499 ePortfolio
-<center><img src="banner_eportfolio.jpg"></center>
+
 
 ## Professional Self-Assessment
 Throughout my journey in the Computer Science program, the coursework and development of my ePortfolio have significantly shaped my skills, professional goals, and values. This experience has not only showcased my strengths but has also prepared me to enter the computer science field with confidence and a competitive edge.
@@ -12,3 +12,12 @@ In software engineering and database management, I gained hands-on experience in
 Security has been a focal point throughout my education. Implementing encryption, conducting penetration testing, and performing regular security audits have been crucial in ensuring the robustness of my applications. This focus on security prepares me to develop applications that are resilient to threats and comply with industry standards.
 My ePortfolio showcases artifacts that demonstrate these skills and competencies. For instance, the secure communication project highlights my ability to implement encryption and ensure data integrity. The vulnerability assessment report exemplifies my skills in identifying and mitigating security risks. These artifacts collectively illustrate my proficiency in various areas of computer science and how they contribute to building secure, reliable, and efficient software solutions.
 In summary, my professional self-assessment reflects a comprehensive skill set in computer science, emphasizing secure coding practices, teamwork, effective communication, and technical proficiency. These competencies, showcased through my ePortfolio, set me apart as a qualified and capable professional ready to contribute to the field of computer science.
+
+### [Software Design & Engineering](SoftwareDesign&Engineering.md)
+A simple C++ grading program that has been converted to a Java program.
+
+### [Data Structures & Algorithms](Algorithms&DataStructure.md)
+A C++ program that renders two 3D objects that was enhanced to include a rotational aspect so that all sides of the objects could be viewed.
+
+### [Databases](Databases.md)
+A SQL database that is enhanced by removing data from a specific table, dropping that table, and then re-creating the table to include another important field that was left out originally.
