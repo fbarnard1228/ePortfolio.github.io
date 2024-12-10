@@ -1,4 +1,4 @@
-# <center>Farrik Barnard SNHU CS 499 ePortfolio</center>
+<center># Farrik Barnard SNHU CS 499 ePortfolio</center>
 <center><img src="E-portfolios1.jpg"></center>
 
 ## Professional Self-Assessment
