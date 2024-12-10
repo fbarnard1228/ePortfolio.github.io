@@ -15,7 +15,7 @@ In summary, my professional self-assessment reflects a comprehensive skill set i
 
 
 ## Code Review
-[Code Review Link]https://www.youtube.com/watch?v=XGd-xtpUffI
+[Code Review Link](https://www.youtube.com/watch?v=XGd-xtpUffI)
 
 ### [Software Design & Engineering](SoftwareDesign&Engineering)
 
