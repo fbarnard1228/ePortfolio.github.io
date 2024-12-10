@@ -25,7 +25,7 @@ Enhancement: Provide a walkthrough of planned enhancements that address issues r
 ### [Software Design & Engineering](SoftwareDesign&Engineering)
 
 
-### [Data Structures & Algorithms](Algorithms&DataStructure)
+### [Algorithms&DataStructure](https://github.com/fbarnard1228/fbarnard1228.github.io/tree/main/Algorithms%20and%20Data%20Structures)
 
 
 ### [Databases](Databases.)
